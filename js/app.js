@@ -21,7 +21,7 @@ const products = [
     {
       id: 2,
       title: "Air Jordan",
-      price: 2500.00,
+      price: 2199.95,
       colors: [
         {
           code: "lightgray",

@@ -168,7 +168,7 @@ nav {
 }
 
 .sliderItem:nth-child(5) .sliderPrice {
-    color: rgb(124, 115, 80);
+    color: white;
 }
 
 .features {
@@ -254,6 +254,11 @@ label {
 
 .cardIcon {
     margin-right: 10px;
+    cursor: pointer;
+}
+
+.cardIcon:hover {
+    border-bottom: 1px solid black;
 }
 
 
